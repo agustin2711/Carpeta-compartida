@@ -1,0 +1,120 @@
+Aire acondicionado:
+mantenimiento externo
+
+UPS:
+¿Que es?
+¿Diferencia con estabilizador?
+¿Tipos basicos? (Offline, line interactive, online (Mas usada en servidores))
+¿Que protege? Servidores, switches, storage
+Conceptos simples: VA vs Watts, autonomia, Bypass
+Mantenimiento: Cambio de baterias, alarmas, pruebas periodicas
+
+Proveedores de hardware y otros:
+Proveedores de: Pcs, servidores (Dell, Hp, Lenovo), Networking (Switches, APs), UPs
+Aprender a pedir presupuestos, comparar, coordinar insalaciones, abrir tickets con soporte externo
+
+Entornos de programacion y aplicativos:
+Pcs con Visual Studio, Java, Python y/o SDKs
+Maquinas virtuales
+Bases de datos locales
+Variables de entorno
+Servicios enlatados (IIS, Apache, etc)
+Instalacio y configuracion. Hacer que funcione cada uno
+
+Aplicativos: Software interno de la empresa, software de terceros (ERP, Herramientas internas, Clientes SQL, VPN, Escritorios remotos, etc)
+
+Impresoras:
+Instalacion local y por red
+Drivers Correctos
+IP fija
+Cola de impresion
+Impresoras compartidas
+Solucionar: No imprime, sale mal, offline
+Diferencia entre USB, red y servidor de impresion (windows server)
+
+Networking basico:
+DNS: 
+	¿Que es? 
+	¿Para que sirve? 
+	Registros basicos: 
+	A, CNME
+	DNA interno vs externo
+	¿Que pasa si DNS no funciona?
+
+DHCP:
+	¿Que es?
+	¿Para que sirve?
+	Rango de IPs
+	Lease
+	Gateway
+	¿DNS que entrega?
+
+VPN:
+	¿Que es?
+	¿Para que se usa? Usuarios remotos
+	Tipos: 
+	Cliente to site
+	Site to site
+¿Como se instalan? verificar conexion, resolver errores comunes
+
+Zabbix - Monitoreo
+Es un sistema que:
+Monitorea servidores, red y servicios.
+Avisa si algo: Se cae, esta lento, se queda sin espacio
+
+Que deberia saber:
+	¿Que es monitoreo?
+	¿Que se puede monitorear?
+	Ver dashboards
+	Reconocer alertas
+	Escalar el problema
+
+SQL:
+¿Que es SQL server?
+¿Que es una base de datos?
+¿Que es un motor SQL?
+Instalacion basica
+Conexion
+Backups
+Servicios: SQL Server Service
+Conceptos: Usuario, base, permisos
+
+Windows Desktop y Server + Active Directory:
+
+Active Directoy (AD):
+¿Que es un dominio?
+Usuario vs grupo
+ABM: Alta, baja, modificacion
+Permisos: Carpetas compartidas
+Politicas basicas: GPO - Concepto
+
+Linux:
+Ver servicios
+Permisos (chmod, chown)
+SSH
+
+Servidores y Racks:
+¿Que es un rack?
+Altura en U
+Orden: Servidores, Switches, Patch panel
+Cableado ordenado
+Etiquetado
+
+Cables UTP y patch panels:
+Cable UTP:
+Cable de red: categorias (Cat5e, Cat6)
+Conector RJ45
+
+Armado:
+Crimpear cables
+Normas: T568A, T568B
+
+Patch panel:
+Panel donde terminan todos los cables del edificio
+Ordena el cableado
+Evita enchufar cables sueltos al switch
+
+Pruebas:
+Tester de red
+Ver continuidad
+Detectar pares cruzados
